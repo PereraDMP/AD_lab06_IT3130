@@ -1,0 +1,11 @@
+com\example\ridelink_modular_monolith\ride\model\Ride.class
+com\example\ridelink_modular_monolith\driver\service\DriverService.class
+com\example\ridelink_modular_monolith\ride\controller\RideController.class
+com\example\ridelink_modular_monolith\RootController.class
+com\example\ridelink_modular_monolith\driver\controller\DriverController.class
+com\example\ridelink_modular_monolith\driver\repository\DriverRepository.class
+com\example\ridelink_modular_monolith\ride\service\RideService.class
+com\example\ridelink_modular_monolith\RidelinkModularMonolithApplication.class
+com\example\ridelink_modular_monolith\ride\repository\RideRepository.class
+com\example\ridelink_modular_monolith\driver\model\Driver.class
+com\example\ridelink_modular_monolith\ride\model\RideStatus.class
